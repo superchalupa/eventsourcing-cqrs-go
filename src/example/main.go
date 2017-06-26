@@ -3,7 +3,7 @@ import (
 	"sync"
 	"fmt"
 	"time"
-	"eventsourcing"
+	eventsourcing "github.com/botchniaque/eventsourcing-cqrs-go/src/eventsourcing"
 )
 
 // Runs example service calls
